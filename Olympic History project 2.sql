@@ -168,20 +168,3 @@ select * from
 from cte) A
 where year=prev_year+4 and year=next_year-4
 
-
-
-
-
-	
-
-
-
-   
-
-
-
-
-
-
-
-
